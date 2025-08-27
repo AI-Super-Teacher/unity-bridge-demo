@@ -1,0 +1,25 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Rider / VS / VSCode
+.vs/
+.vscode/
+.idea/
+
+# Crash reports
+[Ss]ysinfo.txt
+
+# Unity Cache
+/[Aa]ssets/**/StreamingAssets/aa/*
+/[Aa]ssetStore-5.x/
+
+# OS junk
+.DS_Store
+Thumbs.db
